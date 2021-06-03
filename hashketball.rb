@@ -1,6 +1,8 @@
 require 'pry'
 
-def game_hash()
+def game_hash
+  {}
+end
 
 
 #{:home{:team_name => "Lakers", :colors => [blue, yellow], :players => [{}, {}, {}]},
